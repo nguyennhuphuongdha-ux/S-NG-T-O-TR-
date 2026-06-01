@@ -1,0 +1,6 @@
+{
+  "name": "Phát Hiện Nguy Cơ Bắt Nạt",
+  "description": "Ứng dụng giúp học sinh phản ánh tình trạng bị bắt nạt ẩn danh và AI tự động thống kê, cảnh báo cho nhà trường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
