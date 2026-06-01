@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/safe school ai/',
+    base: '/SAFE SCHOOL AI/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
